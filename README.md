@@ -134,9 +134,8 @@ Warning Output
 
 ## 🚀 How to Run Locally
 
-### 1️⃣ Clone Repository
+1️⃣ Clone Repository
 
-```bash
 git clone <your-repo-link>
 cd project-folder
 
