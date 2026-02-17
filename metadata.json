@@ -1,0 +1,10 @@
+
+{
+  "name": "MediSafe AI",
+  "description": "An AI-powered drug interaction detection system designed to help healthcare professionals and patients identify dangerous medication combinations and side effects using advanced clinical reasoning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
